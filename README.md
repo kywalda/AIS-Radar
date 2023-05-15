@@ -83,8 +83,8 @@ You also need some libraries that I used:
 ### Manual
 - Power on the AIS-Radar by connecting the Pico USB port to your power bank.
 - Wait a few minutes to get a GPS fix. (on screen the message changes from "no fix" to "okay")
-- On the right side of the display will be a table.
-- The first two lines give your position, course and speed.
-- When a ships enters your vicinity (observed area is a circle around your position with a radius of 5 nautical miles), it will be shown as a colored line on the left side on the radar map and as double line in the table on the right side in the same color.
+- On the right side of the screen will be a table.
+- The first two rows give your position, course and speed.
+- When a ships enters your vicinity (observed area is a circle around your position with a radius of 5 nautical miles), it will be shown as a colored line on the left side on the radar map and as double row in the table on the right side in the same color.
 - If AIS\_Radar also receives type 24 messages according an existing mmsi, ship type, length and name is also shown.
 - D=2.4nm@165' means: the ship is 2.4 nautical miles away on 165° degree.
