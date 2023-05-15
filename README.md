@@ -54,7 +54,7 @@ Up to 11 different ships can be displayed simultaneously.
 |-----------|------------|
 |20 |RX|
 |21 |TX|
-|VBUS(+5V)|VCC|
+|VBUS(+5V)|5V|
 |GND |GND|
 
 ### Software
