@@ -60,7 +60,8 @@ Up to 11 different ships can be displayed simultaneously.
 ### Software
 To compile your own AIS radar (if you want to modify the code or use other pins or hardware, ...) you need a the Arduino environment with the Board "Raspberry Pi Pico/RP2040" installed.
 You also need some libraries that I used:
-- TFT_eSPI  from https://github.com/Bodmer/TFT_eSPI by Bodmer. **! Edit the "User\_Setup.h" in library/TFT\_eSPI/ folder to meet display and pins!**_
+- TFT_eSPI  from https://github.com/Bodmer/TFT_eSPI by Bodmer. 
+**! Edit the "User\_Setup.h" in library/TFT\_eSPI/ folder to meet display and pins!**
 - UnixTime from https://github.com/GyverLibs/UnixTime Alex Gyver <alex@alexgyver.ru>
 - AIS-master from https://github.com/KimBP/AIS Kim Bøndergaarg <kim@fam-boendergaard.dk>
 
