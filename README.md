@@ -66,6 +66,7 @@ You also need some libraries that I used:
 - AIS-master from https://github.com/KimBP/AIS Kim Bøndergaarg <kim@fam-boendergaard.dk>
 
 ### Installation
+Configure the ublox GPS module with the help of "u-center" software to send **only** RMC messages every second with 38400 baud
 #### With Arduino
 - Edit the "User\_Setup.h" in Arduino/library/TFT\_eSPI/ folder to meet display and pins
 - Connect your Pico to an USB port of your computer while pressing the "BOOTSEL" button
