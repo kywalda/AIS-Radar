@@ -86,4 +86,4 @@ You also need some libraries that I used:
 - The first two lines give your position, course and speed.
 - When a ships enters your vicinity (observed area is a circle around your position with a radius of 5 nautical miles), it will be shown as a colored line on the left side on the radar map and as double line in the table on the right side in the same color.
 - If AIS\_Radar also receives type 24 messages according an existing mmsi, ship type, length and/or name is also shown.
-- 2.4nm@165' means: the ship is 2.4 nautical miles away on 165° degree.
+- d:2.4nm@165' means: the ship is 2.4 nautical miles away on 165° degree.
